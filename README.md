@@ -184,6 +184,7 @@ long r = 0;
 
 5) r is the variable to store the cost and give the final output as the cost.
 
+6) it runs for t test cases and prints cost of every test case.
 
 
 **hence the program works succefully with the problem statement .sample cases are successfully passed.
